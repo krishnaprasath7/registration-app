@@ -2,14 +2,14 @@
   <div class="container">
     <h1>Hello Shantosh!, Hola Pipeline deployed successfully</h1>
     <h2>New user Register d</h2>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Your Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter Your mobile</b></label>
+    <label for="mobile"><b>Enter Your Mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You, Happy Learning </h1>
+   <h1> Thank You </h1>
    <h1> See You Again </h1>
   
 </form>
