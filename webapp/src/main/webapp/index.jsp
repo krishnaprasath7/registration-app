@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Hello Krish!, Hola Pipeline has been deployed successfully</h1>
     <h2>New user Register d</h2>
-    <p>Please fill this form to create an account.</p>
+    <p>Please fill this form to create an account for this project.</p>
     <hr>
      
     <label for="Name"><b>Enter Your Name</b></label>
