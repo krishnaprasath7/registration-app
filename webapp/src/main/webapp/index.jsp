@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hey Krish!, Hola Jenkins Pipeline deployed successfully</h1>
-    <h2>New user Register</h2>
+    <h1>Hey Krish!, Hola Jenkinsr Shan Pipeline deployed successfully</h1>
+    <h2>New user Register d</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
