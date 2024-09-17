@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hello Krish!, Hola Your First Pipeline has been deployed successfully</h1>
+    
     <h2>New user Registration</h2>
     <p>Please fill this form to create an account for this project.</p>
     <hr>
@@ -33,6 +33,7 @@
   </div>
 
    <h1> Thank You </h1>
+<h1>Hello Krish!, Hola Your First Pipeline has been deployed successfully</h1>
    <h1> See You Again </h1>
   
 </form>
