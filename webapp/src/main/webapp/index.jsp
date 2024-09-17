@@ -33,7 +33,6 @@
   </div>
 
    <h1> Thank You </h1>
-<h1>Hello Krish!, Hola Your First Pipeline has been deployed successfully</h1>
    <h1> See You Again </h1>
   
 </form>
